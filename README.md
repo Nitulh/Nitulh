@@ -39,7 +39,7 @@ Optimizing web applications for performance and scalability.
 React.js, UI/UX design, digital marketing, or tech advice.
 
 📫 How to reach me...
-Email: nitul.works@gmail.com | LinkedIn
+Email: nitul.works@gmail.com | LinkedIn(https://www.linkedin.com/in/nitul-arif/)
 
 😄 Pronouns...
 He/him.
