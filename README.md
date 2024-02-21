@@ -27,7 +27,7 @@ I'm not just a developer; I'm a collaborator, ready to bring your ideas to life.
 Enhancing user experience in a React.js project.
 
 🧠 Learning...
-Serverless architecture and machine learning integration.
+Data Structure and Backend.
 
 👯‍♀️ Looking to collaborate on...
 Creative UI/UX projects, React.js development, and innovative ideas.
